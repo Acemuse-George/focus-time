@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   container: {},
   inputContainer: {
     padding: spacing.lg,
-    justifyContent: 'top',
+    justifyContent: 'flex-start',
     flexDirection: 'row',
   },
   textInput: {
